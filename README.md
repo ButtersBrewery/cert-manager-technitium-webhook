@@ -6,6 +6,7 @@ The Cert-Manager Technitium Webhook is a DNS01 solver for cert-manager that allo
 
 ## Features
 
+- Built for ARM64/Raspberry Pi
 - Works with cert-manager to automatically issue certificates
 - Supports Technitium DNS Server for DNS01 challenges
 - Automatic zone detection
